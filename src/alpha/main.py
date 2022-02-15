@@ -67,20 +67,20 @@ def Ticker_Search_button():
     StockEPSCurrent.grid() 
     StockEPSCurrentStatic1.grid()
     StockEPSCurrent.config(text=eps)
-    RealStockEPSCurrent.grid() 
-    RealStockEPSCurrentStatic1.grid()
+   # RealStockEPSCurrent.grid() 
+   # RealStockEPSCurrentStatic1.grid()
 
     StockPECurrent.grid() 
     StockPECurrentStatic1.grid()
     StockPECurrent.config(text=pe)
-    RealStockPECurrent.grid() 
-    RealStockPECurrentStatic1.grid()
+   # RealStockPECurrent.grid() 
+    #RealStockPECurrentStatic1.grid()
 
     GrahamsNumber.grid()
     GrahamsNumberStatic1.grid()
     GrahamsNumber.config(text=grahamsNumber)
     RealGrahamsNumber.grid()
-    RealGrahamsNumberStatic1.grid()
+    #RealGrahamsNumberStatic1.grid()
     
   
 
