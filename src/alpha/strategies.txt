@@ -2,6 +2,51 @@
 
 Stock valuation methods and explanations
 
-Earnings based-valuation (P/E)
-Share price/ EPS 
+Earnings based-valuation (P/E)  DONE
+Share price/ EPS    DONE
+EPS = outstanding shares(FundamentalData=>get_company_overview)     DONE
 Dividend discount
+GRAHAMS PRICING MODEL _ fundamental data => get_company_overview => BookValue
+22.5 = The Graham number is normalized by a factor of 22.5, to represent an 'ideal' P/E ratio of no more than 15x and a P/B of 1.5x.
+sqrt(22.5*earnings per share (eps)* book value per share)
+
+
+
+10 points to follow
+
+Historical results and assumptions
+Start the income statement
+Start the balance sheet
+Build the supporting schedules
+Complete the income statement and balance sheet
+Build the cash flow statement
+Perform the Discounted Cash Flow (DCF) analysis
+Add sensitivity analysis and scenarios
+Build charts and graphs
+Stress test and audit the model
+
+
+_______________________________
+1. Bottom-up financial forecasting
+Bottom-up financial forecasting is a model that relies on current financial statements and sales data. When using this model, a financial professional reviews the company's lowest point and uses that information to calculate future scenarios. This model also involves calculating the potential revenue for a period by multiplying the average sales value by the potential sales per product offered.
+
+2. Top-down financial forecasting
+Top-down financial forecasting is often useful for newer companies or those venturing into a new area of the market. It involves assessing the size of the market and estimating how much of that market a business can secure through its offering. Using top-down financial forecasting is especially useful for companies that want to evaluate potential opportunities for growth or move into a new sector through the development of a new product.
+
+Related: Guide To Creating a Financial Projection for a Start
+
+Related: Budget Forecasting: What It Is and 11 Useful Tips
+
+4. Statistical forecasting
+Statistical forecasting models, also known as quantitative forecasting models, findings from the business' statistics to create relationships and correlating data. This method can help a business determine how its operations compare to those of businesses in a similar sector or market. It's also useful for assessing benchmarks, profitability and growth rates.
+
+5. Delphi forecasting
+Delphi forecasting is a model that involves a group of people analyzing data and information from industry experts. A facilitator leads the group, which continuously collaborates with one another to form hypotheses and analyze data to come to a consensus. The process of Delphi forecasting often includes answering a series of questions, which build on one another throughout the collaboration period. The questions help ensure that all members of the discussion group have access to the same information, which they can use to make informed decisions and discuss relevant issues.
+
+6. Asset and liability management forecasting
+Financial institutions and pension funds may rely on the asset and liability management forecasting model to work toward certain financial objectives. This method involves using risk management strategies to reduce the risk of impact from changes in interest, foreign exchange rates and economic shifts. Organizations relying on this method of forecasting might conduct a full review every few years to ensure that they're working toward their goals while protecting their investors.
+
+Financial forecasting vs. financial modeling
+Another method commonly used by businesses working toward financial and development goals is financial modeling. Although the two terms may be interchangeable in some organizations, financial forecasting differs from financial modeling. To perform financial modeling, an organization needs the data produced by financial forecasting. When creating financial models, business leaders use financial forecasts to simulate potential scenarios and how each situation would affect the financial standing of the company.
+
+The data from both financial forecasting and financial modeling is important when companies create budgets and analyze potential investment opportunities. It can also be useful to assess this information when determining the rate of business growth or when deciding whether to expand the team to accommodate the level of growth. Business stakeholders and decision-makers rely on the information from these educated financial scenarios when determining how to move forward and increase the organization's chances of success.
