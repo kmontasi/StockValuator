@@ -24,7 +24,7 @@ Run the stock_valuator.py file.
 Enter the required information when prompted.
 
 
---------------
+
 ## TODO
 I intent to vastly expand upon the available formulas and the user interface.
 
@@ -39,8 +39,8 @@ Currently the program shows user:
 -   Grahams number (measures a stock's fundamental value)
 
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or pull request for any bugs or feature requests.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
