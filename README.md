@@ -5,11 +5,12 @@ StockValuator is a Python program that calculates the intrinsic value of a stock
 Installation
 Clone the repository to your local machine.
 
-
 ```git clone https://github.com/kmontasi/StockValuator.git```
+
 Install the required Python packages.
 
 ```pip install -r requirements.txt```
+
 Usage
 Open the terminal and navigate to the repository folder.
 
