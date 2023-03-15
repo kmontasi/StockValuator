@@ -12,11 +12,15 @@ Install the required Python packages.
 ```pip install -r requirements.txt```
 
 Usage
+
 Open the terminal and navigate to the repository folder.
 
 ```cd StockValuator```
+
 Run the stock_valuator.py file.
+
 ```python stock_valuator.py```
+
 Enter the required information when prompted.
 
 The program will calculate the intrinsic value of the stock and display the result.
