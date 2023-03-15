@@ -9,21 +9,23 @@ Clone the repository to your local machine.
 
 open the terminal and navigate to the repository folder.
 
-```cd StockValuator/src```
+```cd StockValuator/src/alpha```
 
 Install the required Python packages.
 
 ```pip install -r requirements.txt```
 
-Usage
+### Launch
 
 
 Run the stock_valuator.py file.
 
 ```python main.py```
 
-Enter the required information when prompted.
 
+### in program usage
+
+Enter the required ticker when prompted.
 
 
 ## TODO
